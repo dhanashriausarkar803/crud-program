@@ -1,3 +1,4 @@
 # crud-program
 CRUD assignment
-https://dhanashriausarkar803.github.io/crud-program/ tap here quick review
+https://github.com/dhanashriausarkar803/crud-program 
+ Tap here 
